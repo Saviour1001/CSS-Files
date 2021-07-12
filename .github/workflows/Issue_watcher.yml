@@ -15,5 +15,5 @@ jobs:
         with:
           token: '${{ secrets.GITHUB_TOKEN }}'
           author: '${{github.actor}}'
-          repo: smv1999/CompetitiveProgrammingQuestionBank
+          repo: Saviour1001/CSS-Files               #Change the Repo name 
           maxIssue: 2
