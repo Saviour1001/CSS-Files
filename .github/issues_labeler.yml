@@ -1,7 +1,7 @@
 C:
   - "( C )"
 C-Plus-Plus:
-  - "(C-Plus-Plus|CPP|cpp)"
+  - "(C-Plus-Plus|CPP|cpp|C++)"
 C-Sharp:
   - "(C-Sharp|csharp|C#)"
 Go:
