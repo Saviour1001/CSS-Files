@@ -8,7 +8,7 @@ Happy Contributing!
 
 -->
 
-### Have you read the [Contributing Guidelines on Pull Requests](https://github.com/TesseractCoding/NeoAlgo/blob/master/CONTRIBUTING.md#pull-requests)?
+### Have you read the [Contributing Guidelines on Pull Requests](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/blob/master/CONTRIBUTING.md)?
 
 (Write your answer here.)
 
