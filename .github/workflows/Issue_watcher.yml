@@ -15,5 +15,5 @@ jobs:
         with:
           token: '${{ secrets.GITHUB_TOKEN }}'
           author: '${{github.actor}}'
-          repo: TesseractCoding/NeoAlgo
+          repo: smv1999/CompetitiveProgrammingQuestionBank
           maxIssue: 2
